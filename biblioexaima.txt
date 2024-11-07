@@ -1,0 +1,40 @@
+Para ativar pesquisa:
+*Tecle Ctrl+L ou Ctrl+F 
+_____________________________________
+Biblioteca de Exames Complementares
+_____________________________________
+
+Radiografia
+_____________________________________
+
+1 - RX Simples - Abdome - Abdome em pé e deitado - Obstrução de Delgado
+
+2 - RX Simples - Tórax - Pneumotórax Simples D - Falhas Técnicas (sem exibir seios costofrênicos)
+
+3 - RX Simples - Tórax - Pneumoperitônio 
+
+11 - RX Simples - Cervical Perfil - Normal
+_____________________________________
+
+Ultrassonografia
+_____________________________________
+
+4 - US - Abdome - Apendicite Aguda - Apêndice Vermiforme Cecal de Paredes espessadas
+
+5 - US - Abdome - Cálculo no infundíbulo da Vesícula Biliar com paredes espessadas - Colelitíase
+
+6 - US - Abdome - Hidronefrose
+
+7 - US - Abdome - Líquido Livre Morrisom
+_____________________________________
+
+Tomografia Computadorizada
+_____________________________________
+
+8 - TC - Abdome - Hidronefrose Esquerda Volumosa com Rdução do Parênquima
+
+9 - TC - Abdome - Cálculo Ureteral à Direita (terço médio)
+
+10 - TC - Abdome - Pancreatite - Aumento difuso do volume pancreático
+
+12 - TC - Coluna Dorsal - Fratura de Vértabra (Explosão)

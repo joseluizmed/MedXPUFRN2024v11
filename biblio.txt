@@ -1,0 +1,223 @@
+Para ativar pesquisa:
+*Tecle Ctrl+L ou Ctrl+F 
+_______________________________________
+
+    -Biblioteca de Casos Clínicos -
+_______________________________________
+
+#ID 0
+_______________________________________
+
+Este ID é reservado para o seu caso personalizado.
+_______________________________________
+
+#ID 1
+_______________________________________
+Abdome Agudo Inflamatório
+Apendicite Aguda
+Gustavo
+
+*Título:
+Dor Abdominal Aguda – Abdome Agudo
+
+*Resumo:
+Você está em uma UPA.
+Proceda o manejo mais adequado para um adulto jovem que deu entrada com dor abdominal aguda.
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.
+_______________________________________
+
+#ID 2
+_______________________________________
+Dor Abdominal no Pronto Socorro
+Cólica Nefrética
+Gomes
+
+*Título:
+Dor Abdominal Aguda no PS – Dor Abdominal Referida
+
+*Resumo:
+Você está em uma UPA
+Proceda o manejo mais adequado para um adulto com dor abdominal aguda.
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.
+_______________________________________
+
+#ID 3
+_______________________________________
+Dor Abdominal no Pronto Socorro
+Obstrução Intestinal
+Francisca
+
+*Título:
+Dor Abdominal Aguda no PS – Dor em Cólica
+
+*Resumo:
+Você está em uma UPA
+Proceda o manejo mais adequado para uma idosa com dor abdominal aguda.
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.
+_______________________________________
+
+#ID 4
+_______________________________________
+Dor Abdominal no Pronto Socorro
+Prenhez Ectópica
+Isabela
+
+*Título:
+Dor Abdominal Aguda no PS – Abdome Agudo
+
+*Resumo:
+Você está em uma UPA
+Proceda o manejo mais adequado para um adulto com dor abdominal aguda.
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.
+_______________________________________
+
+#ID 5
+_______________________________________
+Dor Abdominal no Pronto Socorro
+Pancreatite Aguda
+Gomes
+
+*Título:
+Dor Abdominal Aguda no PS – Dor em Barra
+
+*Resumo:
+Você está em uma UPA
+Proceda o manejo mais adequado para um adulto com dor abdominal aguda.
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.
+_______________________________________
+
+#ID 6
+_______________________________________
+Dor Abdominal no Pronto Socorro
+Úlcera Péptica Perfurada
+Gomes
+
+*Título:
+Dor Abdominal Aguda no PS – Abdome Agudo
+
+*Resumo:
+Você está em uma UPA
+Proceda o manejo mais adequado para um adulto com dor abdominal aguda.
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.
+
+_______________________________________
+
+#ID 7
+_______________________________________
+Atendimento Inicial ao politraumatizado
+TRM
+Gustavo
+
+*Título:
+Atendimento Inicial ao politraumatizado - TRM
+
+*Resumo:
+Você está em um Centro de Trauma
+Proceda o manejo mais adequado para um adulto vítima de TRM
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.
+_______________________________________
+
+#ID 8
+_______________________________________
+Atendimento Inicial ao politraumatizado
+Trauma Torácico Fechado – Pneumotórax Fechado
+Gustavo
+
+*Título:
+Atendimento Inicial ao politraumatizado – Trauma Torácico
+
+*Resumo:
+Você está em um Centro de Trauma
+Proceda o manejo mais adequado para um adulto jovem vítima de trauma torácico.
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.
+_______________________________________
+
+#ID 9
+_______________________________________
+Atendimento Inicial ao politraumatizado
+Trauma Abdominal Penetrante
+Gomes
+
+*Título:
+Atendimento Inicial ao politraumatizado – Trauma Abdominal
+
+*Resumo:
+Você está em um Centro de Trauma
+Proceda o manejo mais adequado para um adulto vítima de trauma abdominal.
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.
+
+_______________________________________
+
+#ID 10
+_______________________________________
+Dor Abdominal em avaliação Ambulatorial
+Colecistopatia Litiásica
+Francisca
+
+*Título:
+Dor Abdominal no Ambulatório
+
+*Resumo:
+Você está em uma Unidade Básica de Saúde.
+Proceda o manejo mais adequado para um idoso com dor abdominal em uma avaliação ambulatorial.
+
+*Objetivos de Aprendizagem:
+I - Comunicação;
+II - Proceder exame clínico (História e exame Físico);
+III - Estabelecimento da Hipótese Diagnóstica;
+IV - Seleção de exames complementares pertinentes e interpretação dos resultados;
+V - Prescrever a conduta para o caso.

@@ -1,0 +1,24 @@
+Para ativar pesquisa:
+*Tecle Ctrl+L ou Ctrl+F 
+________________________________________
+Biblioteca de Imagens
+
+1 - MMII - Masculino
+
+2 - MMII - Feminino
+
+3 - MMII sem edemas - Gomes
+
+4 - MMII sem edemas - Francisca
+
+6 - MMII sem edemas - Gustavo
+
+8 - MMII sem edemas - Isabela
+
+13 - Edema de MMII sem rubor - Gomes
+
+14 - Edema de MMII sem rubor - Francisca
+
+16 - Edema de MMII sem rubor - Gustavo
+
+18 - Edema de MMII sem rubor - Isabela  

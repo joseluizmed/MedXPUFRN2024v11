@@ -1,0 +1,16 @@
+Para ativar pesquisa:
+*Tecle Ctrl+L ou Ctrl+F 
+________________________________________
+Biblioteca de Imagens
+
+1 - Tórax - Masculino
+
+2 - Tórax - Feminino
+
+3 - Tórax - Eutrófico - Gomes
+
+4 - Tórax - Obesidade - Francisca
+
+6 - Tórax - Atlético - Gustavo
+
+8 - Tórax - Eutrófico - Isabela

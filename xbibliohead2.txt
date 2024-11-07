@@ -1,0 +1,18 @@
+Para ativar pesquisa:
+*Tecle Ctrl+L ou Ctrl+F 
+________________________________________
+Biblioteca de Imagens
+
+1 - Face - Masculina
+
+2 - Face - Feminina
+
+3 - Mucosa Conjuntival Corada
+
+4 - Mucosa Conjuntival Hipocorada
+
+5 - Esclera - Icterícia
+
+6 - Mucosa Conjuntival Hipocorada e Icterícia
+
+7 - Faringite Viral
